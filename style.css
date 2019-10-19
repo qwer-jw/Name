@@ -1,0 +1,7 @@
+body {
+    background-color: black;
+    color: white;
+}
+body .title{
+    color: rgb(255, 0, 0);
+}
